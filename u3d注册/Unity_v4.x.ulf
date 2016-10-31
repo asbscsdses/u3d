@@ -1,0 +1,52 @@
+<root>
+  <License id="Terms">
+    <AlwaysOnline Value="true"/>
+    <ClientProvidedVersion Value="4.6.0f3"/>
+    <DeveloperData Value="AQAAAEYzLVdGQk0tM0EzOS1TWllXLTVINEEtWEc4Tg=="/>
+    <Features>
+      <Feature Value="1"/>
+      <Feature Value="2"/>
+      <Feature Value="3"/>
+      <Feature Value="12"/>
+      <Feature Value="17"/>
+      <Feature Value="19"/>
+      <Feature Value="24"/>
+      <Feature Value="33"/>
+      <Feature Value="36"/>
+      <Feature Value="62"/>
+    </Features>
+    <InitialActivationDate Value="2016-10-29T00:49:12"/>
+    <LicenseVersion Value="4.x"/>
+    <MachineBindings>
+      <Binding Key="1" Value="00330-80000-00000-AA238"/>
+      <Binding Key="4" Value="Tm8gU2VyaWFsIE51bWJlcg=="/>
+      <Binding Key="2" Value="5VEW45E2"/>
+    </MachineBindings>
+    <MachineID Value="KWuQcN8pC3wAnwVimiG74zM8uBU="/>
+    <SerialHash Value="361176c92ddf4d2e89eef618fb351554c430830b"/>
+    <SerialMasked Value="F3-WFBM-3A39-SZYW-5H4A-XXXX"/>
+    <StartDate Value=""/>
+    <StopDate Value=""/>
+    <UpdateDate Value="2016-10-30T00:49:12"/>
+  </License>
+
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#Terms">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>FxbWrXOxfjR6UKyHpuL1Oy3hnwk=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>aMbmUTl5e1Bj+7d2FRkSWrnXmdXOyqmaOVmQDFWGEDxyh73VYvrtoDpapF0o9XFm
+zVLCO/wq17YjhmuH3ywlU+3SRJBswuv67ne6WKjBtaI4ud7c82o8DDLotkGd+gRY
+uFvTftlvSKJPRJlBSN8LX1hke007bG6bBcsozrHvAVwqmBzFG09cpyT9+nLb3rU7
+FQ+77hY+J06UEZcB8vkhvmpcqD1EbQvgXnquFZwdlV2bgynjIsTGcNZPGsMufIaG
+N1tNRxAn7Au6zx4J1T2Nwx7j/qpirJnPJjcSEkcLdNcrvwPegvcD9Yu3Y6CEO5lj
+hVG1jqIDkKUHM4NKXXCocA==</SignatureValue>
+</Signature>
+</root>
