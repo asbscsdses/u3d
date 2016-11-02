@@ -6,6 +6,8 @@ function Start () {
 
 var speed:int = 5;
 var newobject:Transform;
+var count:int=0;
+var kickCount:int=0;
 
 function Update () {
 	var x = Input.GetAxis("Horizontal")*Time.deltaTime*speed;
@@ -18,6 +20,11 @@ function Update () {
 		var fwd = transform.TransformDirection(Vector3.forward);
 		
 		clone.rigidbody.AddForce(fwd*2800);			
+		
+		count++;
+		
+		gameObject.Find("count").GetComponent(UI.Text).text = "数量："+count + "  击落数：" + kickCount;
+		
 	}
 	
 	if(Input.GetKey(KeyCode.Q)){

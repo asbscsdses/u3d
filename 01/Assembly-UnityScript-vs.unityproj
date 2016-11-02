@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\destroy.js" />
+     <Compile Include="Assets\scripts\kick.js" />
      <Compile Include="Assets\scripts\shoot.js" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Pm/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
